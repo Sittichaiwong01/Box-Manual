@@ -2,10 +2,11 @@
 
 Cloud manual/reference library.
 
-_Updated: 2026-06-04 19:22:37_
+_Updated: 2026-06-19 03:52:57_
 
 ## PDF Files
 
+- [Blackyman-Spec.pdf](Blackyman-Spec.pdf) (193.79 KB)
 - [CPU COOLER H80i_QSG_web.pdf](CPU%20COOLER%20H80i_QSG_web.pdf) (2.44 MB)
 - [GTX_TITAN_X_User_Guide.pdf](GTX_TITAN_X_User_Guide.pdf) (3.09 MB)
 - [IU01-manual-english.pdf](IU01-manual-english.pdf) (328.97 KB)
@@ -23,4 +24,4 @@ _Updated: 2026-06-04 19:22:37_
 
 ## Text Files
 
-- [README.md](README.md) (856 B)
+- [README.md](README.md) (874 B)
