@@ -1,8 +1,8 @@
-# Manual
+# Box-Manual
 
 Cloud manual/reference library.
 
-_Updated: 2026-06-19 03:52:57_
+_Updated: 2026-06-23 12:40:09_
 
 ## PDF Files
 
@@ -18,10 +18,6 @@ _Updated: 2026-06-19 03:52:57_
 
 - [EVGA_SuperNOVA_1600_G2_120-G2-1600-X1_80+_GOLD_1601238x1448.png](EVGA_SuperNOVA_1600_G2_120-G2-1600-X1_80%2B_GOLD_1601238x1448.png) (1.33 MB)
 
-## Spreadsheet Files
-
-- [BlackyManSpec_Complete.xlsx](BlackyManSpec_Complete.xlsx) (14.56 KB)
-
 ## Text Files
 
-- [README.md](README.md) (874 B)
+- [README.md](README.md) (930 B)
